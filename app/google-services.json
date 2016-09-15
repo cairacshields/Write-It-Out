@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "982950115123",
+    "firebase_url": "https://write-it-out.firebaseio.com",
+    "project_id": "write-it-out",
+    "storage_bucket": "write-it-out.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982950115123:android:5fabedb94bea8991",
+        "android_client_info": {
+          "package_name": "com.example.paul.writeitout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982950115123-263girkg5f2fk0puqa42acvqncr0557n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1wsQ3FSGGoJC2CMSL53-dXlsVhaF8qz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

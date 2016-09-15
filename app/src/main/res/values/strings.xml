@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Write It Out</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+</resources>
